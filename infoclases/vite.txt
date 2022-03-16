@@ -1,0 +1,14 @@
+para usar vite solo vamos a usarlo de la siguiente manera 
+
+npm init vite@latest
+
+con este comando inicializamos el proceso.
+
+luego se selecciona el framework con el que queremos comenzar
+
+listo, 
+por ultimo corremos npm install para instalar las dependencias 
+
+PARA INICIALIZAR EL PROYECYO EN UN LOCAL HOST:
+
+npm run dev
